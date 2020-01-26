@@ -1,1 +1,2 @@
 # OCR_catalogues
+The utilization of online search and comparison tools have become widespread among people who plan to do shopping. Still, there is a need for a medium to use offline classic advertising materials together with the advantages of online infrastructures.This project aims to provide such medium's infrastructure which serves as a search engine that uses the catalogs and brochures, compares the query results of a specific product that is searched.
